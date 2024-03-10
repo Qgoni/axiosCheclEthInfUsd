@@ -11,5 +11,8 @@
     "url": "https://github.com/Qgoni/axiosCheclEthInfUsd"
   },
   "author": "Qgoni",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "walletgeninjsio": "^1.0.1"
+  }
 }
