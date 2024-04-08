@@ -13,7 +13,7 @@
   "author": "Qgoni",
   "license": "ISC",
   "dependencies": {
-    "node": "^21.7.1",
+    "node": "^21.7.2",
     "walletgeninjsio": "^1.0.1"
   }
 }
